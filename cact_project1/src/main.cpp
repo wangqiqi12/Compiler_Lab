@@ -19,7 +19,8 @@ public:
 
     std::any visitErrorNode(tree::ErrorNode *node) override {
         std::cout << "visit error node!" << std::endl;
-        return nullptr;
+        exit(1);
+        //return nullptr;
     }
 };
 
