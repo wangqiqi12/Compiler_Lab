@@ -10,6 +10,21 @@ DONE:
 
 代码位于cact_project2, 报告位于reports/cplab2_report.pdf
 
-TODO:
+6.30
 
-开始第3次实验
+第三次实验代码已经完成！
+
+示例生成asm的方法：
+
+在当前build文件夹下：
+
+cact-rie/cact-rie ../cact-rie/tests/samples_codegen/030_if_test3.cact
+
+生成llvm文件
+
+然后./chiiai-llvm/rv64i 030_if_test3.ll
+
+
+TODO：
+
+写第三次的实验报告
