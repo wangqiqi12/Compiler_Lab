@@ -12,7 +12,7 @@ DONE:
 
 6.30
 
-第三次实验代码已经完成！
+第三次实验代码和报告已经完成！
 
 示例生成asm的方法：
 
@@ -27,4 +27,4 @@ cact-rie/cact-rie ../cact-rie/tests/samples_codegen/030_if_test3.cact
 
 TODO：
 
-写第三次的实验报告
+All things Done.
